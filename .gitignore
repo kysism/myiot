@@ -127,8 +127,3 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-
-# json
-./static/key/home-security-f2b32-firebase-adminsdk-ehsqk-3bf1004be4.json
-./static/key/myhome-security-firebase-adminsdk-qplwb-c5930b672a.json
-./static/key/apikey.json
